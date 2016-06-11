@@ -1,0 +1,29 @@
+{
+  "name": "game-of-life",
+  "version": "0.0.1",
+  "description": "The Game Of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovejedi/cleancodejedi-academy.git"
+  },
+  "keywords": [
+    "game",
+    "of",
+    "life",
+    "tdd"
+  ],
+  "author": "Ray de Castro, Greg Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovejedi/cleancodejedi-academy/issues"
+  },
+  "homepage": "https://github.com/lovejedi/cleancodejedi-academy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
