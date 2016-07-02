@@ -8,6 +8,12 @@ describe('In the Game of Life,', function () {
 
             assert.notEqual(cell, undefined);
         });
-        
+
+        it('should have an indicator for presence of life or death', function () {
+            var cell = new Cell(); 
+            cell.isAlive = true; 
+
+            assert.equal(cell.isAlive, true);
+        });
     });
 });
