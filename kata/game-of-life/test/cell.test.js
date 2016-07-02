@@ -15,5 +15,13 @@ describe('In the Game of Life,', function () {
 
             assert.equal(cell.isAlive, true);
         });
+
+        it('should have a name', function () {
+           var cell = new Cell();
+           cell.name = "Bob";
+
+           assert.equal(cell.name, "Bob");
+        });
+
     });
 });
