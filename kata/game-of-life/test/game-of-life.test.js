@@ -8,19 +8,5 @@ describe('In the Game of Life,', function () {
 
             assert.notEqual(matrix, undefined);
         });
-
-        it('should have a width', function () {
-            var matrix = new Matrix();
-            matrix.width = 100;
-
-            assert.equal(matrix.getWidth(), 100);
-        });
-
-        it('should have a height', function () {
-            var matrix = new Matrix();
-            matrix.height = 108;
-
-            assert.equal(matrix.getHeight(), 108);
-        });
     });
 });
