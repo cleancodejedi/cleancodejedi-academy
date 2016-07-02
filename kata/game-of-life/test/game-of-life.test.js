@@ -13,19 +13,6 @@ describe('In the Game of Life,', function () {
             var matrix = new Matrix(); 
             matrix.create(50, 100);
 
-            // Example: 
-            //
-            //     var actualMatrix = [
-            //         [
-            //             0, 1, 0
-            //         ],
-            //         [
-            //             1, 0, 1
-            //         ]
-            //     ];
-            //    console.log('height: ' + actualMatrix.length );
-            //    console.log('width: ' + actualMatrix[actualMatrix.length-1].length );
-
             assert.equal(matrix.getWidth(), 50);
             assert.equal(matrix.getHeight(), 100);
             
