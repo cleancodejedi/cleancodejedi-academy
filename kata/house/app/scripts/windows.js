@@ -1,1 +1,1 @@
-Om Mani Padme Hum
+Om Nama Sivaya
