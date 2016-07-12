@@ -1,1 +1,1 @@
-tralalla
+Om Mani Padme Hum
