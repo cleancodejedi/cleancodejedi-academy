@@ -20,7 +20,7 @@ class Grid {
     getWidth() {
         return this.width;
     }
-    
+
     getHeight() {
         return this.height;
     }
