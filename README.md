@@ -16,7 +16,7 @@
 * No duplication
 * Short
 
-#### Conway's Game of Life Rules
+#### [Conway's Game of Life Rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Rules)
 * 1. Any live cell with < 2 live neighbors dies of under population
 * 2. Any live cell with 2 or 3 live neighbors lives on
 * 3. Any live cell with > 3 live neighbors dies of over population
