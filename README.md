@@ -4,45 +4,45 @@
 
 ### code retreat
 
-#### Code Retreat Rules
-* Each session is 45 minutes long
-* Each pair switches with new members on every session change
-* Code must be deleted on every session change
-* Use Test Driven Development
+#### code retreat rules
+* each session is 45 minutes long
+* each pair switches with new members on every session change
+* code must be deleted on every session change
+* use test driven development
 
-#### Four rules of simple design
-* Tests pass
-* Expresses intent
-* No duplication
-* Short
+#### four rules of simple design
+* tests pass
+* expresses intent
+* no duplication
+* short
 
-#### [Conway's Game of Life Rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Rules)
-* 1. Any live cell with < 2 live neighbors dies of under population
-* 2. Any live cell with 2 or 3 live neighbors lives on
-* 3. Any live cell with > 3 live neighbors dies of over population
-* 4. Any dead cell with exactly 3 live neighbors comes alive
+#### [conway's game of life rules](https://en.wikipedia.org/wiki/conway%27s_game_of_life#rules)
+* 1. any live cell with < 2 live neighbors dies of under population
+* 2. any live cell with 2 or 3 live neighbors lives on
+* 3. any live cell with > 3 live neighbors dies of over population
+* 4. any dead cell with exactly 3 live neighbors comes alive
 
-#### Constraints 
+#### constraints 
 
-#### Step 0
-* No rules
-* No constraints
+#### step 0
+* no rules
+* no constraints
 
-#### Step 1
-* Use Test Driven Development (TDD)
-* No constraints
+#### step 1
+* use test driven development (tdd)
+* no constraints
 
-#### Step 2
-* Use Test Driven Development (TDD)
-* No primitives across method boundaries 
-* Input and output must be defined by us
+#### step 2
+* use tdd
+* no primitives across method boundaries 
+* input and output must be defined by us
 
-#### Step 3
-* Use Test Driven Development (TDD)
-* Silent TDD
-* No talking, no chatting
+#### step 3
+* use tdd
+* silent tdd
+* no talking, no chatting
 
-#### Step 4
-* Use Test Driven Development (TDD)
-* Code like it's 1969
-* you can only run the tests and code twice for the whole session. 
+#### step 4
+* use tdd
+* code like it's 1969
+* you can only run the tests and code twice for the whole session
